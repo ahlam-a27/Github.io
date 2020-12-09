@@ -1,0 +1,139 @@
+@charset "utf-8";
+.contantre {
+    width: 1164px;
+    text-indent: 30px;
+    height: auto;
+}
+.header {
+    height: 150px;
+    background-color: rgba(0,0,0,1.00);
+    padding-top: 0px;
+    margin-bottom: 0px;
+    width: 1158px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    background-image: url(images/images
+%20(1).jpg);
+    background-image: url(images/images
+%20(1).jpg);
+    color: rgba(218,154,90,1.00);
+    text-align: center;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.contantre .header h1 {
+    margin-top: -113px;
+    margin-right: -594px;
+    font-size: 60px;
+    color: rgba(255,255,255,1);
+}
+
+.contantre .header h2 {
+    margin-top: -108px;
+    margin-right: 596px;
+    font-size: 45px;
+    color: rgba(255,255,255,1);
+}
+
+
+
+.header img {
+    margin-right: -32px;
+
+
+}
+
+
+.nav {
+    width: 826px;
+    height: 77px;
+    background-color: rgba(219,80,51,1.00);
+    margin-top: 50px;
+    margin-left: 174px;
+    margin-right: 140px;
+    max-width: none;
+    margin-bottom: 50px;
+    color: rgba(255,255,255,1.00);
+    text-align: center;
+    text-shadow: 0px 0px 26px;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-decoration: none;
+    line-height: 4;
+    font-size: 19px;
+    border-radius: 35px;
+}
+.contantre .nav a {
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 0px;
+    color: rgba(255,255,255,1.00);
+    text-decoration: none;
+    text-shadow: 0px 0px;
+    font-size: 20px;
+    line-height: 0px;
+    text-indent: 0px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+
+
+}
+
+
+
+.main {
+    width: auto;
+    height: auto;
+    margin-top: 72px;
+    margin-bottom: 140px;
+    text-align: center;
+}
+.footeer {
+    height: 40px;
+    background-color: rgba(205,205,205,1.00);
+    top: auto;
+    width: 699px;
+    margin-left: 230px;
+    color: rgba(40,39,39,1.00);
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    text-align: center;
+    font-style: italic;
+    font-variant: normal;
+    font-size: 30px;
+    text-shadow: 0px 0px 2px;
+    text-transform: none;
+    border-style: none;
+    padding-top: 40px;
+}
+.footeer img {
+    padding-left: 0px;
+    margin-top: -29px;
+    margin-left: -341px;
+}
